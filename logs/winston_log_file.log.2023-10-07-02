@@ -1,0 +1,168 @@
+2023-10-06T20:30:15.646Z: server started | listening at |  9094
+2023-10-06T20:30:18.395Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:30:18.395Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:30:34.642Z: server started | listening at |  9094
+2023-10-06T20:30:37.721Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:30:37.721Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:31:11.207Z: server started | listening at |  9094
+2023-10-06T20:31:14.733Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:31:14.734Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:33:20.477Z: server started | listening at |  9094
+2023-10-06T20:36:54.068Z: server started | listening at |  9094
+2023-10-06T20:44:16.433Z: server started | listening at |  9094
+2023-10-06T20:44:55.845Z: server started | listening at |  9094
+2023-10-06T20:44:56.942Z: server started | listening at |  9094
+2023-10-06T20:53:15.648Z: server started | listening at |  9094
+2023-10-06T20:53:48.253Z: server started | listening at |  9094
+2023-10-06T20:54:50.673Z: server started | listening at |  9094
+2023-10-06T20:55:00.030Z: server started | listening at |  9094
+2023-10-06T20:56:08.242Z: server started | listening at |  9094
+2023-10-06T20:58:11.509Z: server started | listening at |  9094
+2023-10-06T21:00:21.795Z: server started | listening at |  9094
+2023-10-06T21:04:40.908Z: server started | listening at |  9094
+2023-10-06T21:04:53.805Z: server started | listening at |  9094
+2023-10-06T21:06:16.228Z: server started | listening at |  9094
+2023-10-06T21:06:17.950Z: ReferenceError: Cannot access 'resss' before initialization
+    at Transaction.transact (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:16:36)
+    at module.exports.executeTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:33:52)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+2023-10-06T21:06:17.951Z: ReferenceError: Cannot access 'resss' before initialization
+2023-10-06T21:06:39.090Z: server started | listening at |  9094
+2023-10-06T21:07:12.803Z: server started | listening at |  9094
+2023-10-06T21:08:53.117Z: server started | listening at |  9094
+2023-10-06T21:13:11.023Z: server started | listening at |  9094
+2023-10-06T21:13:11.691Z: server started | listening at |  9094
+2023-10-06T21:13:17.650Z: server started | listening at |  9094
+2023-10-06T21:13:29.071Z: server started | listening at |  9094
+2023-10-06T21:14:42.548Z: server started | listening at |  9094
+2023-10-06T21:14:51.551Z: server started | listening at |  9094
+2023-10-06T21:14:52.313Z: server started | listening at |  9094
+2023-10-06T21:14:56.189Z: server started | listening at |  9094
+2023-10-06T21:14:57.286Z: server started | listening at |  9094
+2023-10-06T21:14:58.912Z: server started | listening at |  9094
+2023-10-06T21:15:00.536Z: server started | listening at |  9094
+2023-10-06T21:15:03.546Z: CastError: Cast to number failed for value "undefined" (type undefined) at path "balance"
+    at castUpdateVal (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/helpers/query/castUpdate.js:538:13)
+    at walkUpdatePath (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/helpers/query/castUpdate.js:380:24)
+    at castUpdate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/query.js:4710:10)
+    at model.Query._findOneAndUpdate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/query.js:3326:23)
+    at model.Query.exec (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/query.js:4430:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Transaction.transact (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:20:31)
+    at async module.exports.fetchTransactions (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:81:34)
+2023-10-06T21:15:03.546Z: CastError: Cast to number failed for value "undefined" (type undefined) at path "balance"
+2023-10-06T21:15:24.624Z: server started | listening at |  9094
+2023-10-06T21:15:38.064Z: server started | listening at |  9094
+2023-10-06T21:15:46.901Z: server started | listening at |  9094
+2023-10-06T21:15:47.996Z: server started | listening at |  9094
+2023-10-06T21:15:52.876Z: server started | listening at |  9094
+2023-10-06T21:16:33.847Z: server started | listening at |  9094
+2023-10-06T21:16:43.700Z: server started | listening at |  9094
+2023-10-06T21:16:48.452Z: server started | listening at |  9094
+2023-10-06T21:16:50.193Z: server started | listening at |  9094
+2023-10-06T21:16:56.244Z: server started | listening at |  9094
+2023-10-06T21:16:57.693Z: server started | listening at |  9094
+2023-10-06T21:17:04.702Z: server started | listening at |  9094
+2023-10-06T21:17:09.677Z: server started | listening at |  9094
+2023-10-06T21:17:38.551Z: server started | listening at |  9094
+2023-10-06T21:18:18.198Z: server started | listening at |  9094
+2023-10-06T21:18:37.296Z: server started | listening at |  9094
+2023-10-06T21:18:41.737Z: server started | listening at |  9094
+2023-10-06T21:19:31.692Z: server started | listening at |  9094
+2023-10-06T21:20:13.990Z: CastError: Cast to number failed for value "undefined" (type undefined) at path "balance"
+    at castUpdateVal (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/helpers/query/castUpdate.js:538:13)
+    at walkUpdatePath (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/helpers/query/castUpdate.js:380:24)
+    at castUpdate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/helpers/query/castUpdate.js:110:7)
+    at model.Query._castUpdate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/query.js:4710:10)
+    at model.Query._findOneAndUpdate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/query.js:3326:23)
+    at model.Query.exec (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/query.js:4430:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Transaction.transact (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:18:34)
+    at async module.exports.fetchTransactions (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:81:34)
+2023-10-06T21:20:13.991Z: CastError: Cast to number failed for value "undefined" (type undefined) at path "balance"
+2023-10-06T21:20:40.336Z: server started | listening at |  9094
+2023-10-06T21:20:47.081Z: server started | listening at |  9094
+2023-10-06T21:21:08.957Z: server started | listening at |  9094
+2023-10-06T21:23:00.519Z: server started | listening at |  9094
+2023-10-06T21:23:01.865Z: server started | listening at |  9094
+2023-10-06T21:23:23.230Z: server started | listening at |  9094
+2023-10-06T21:23:23.985Z: server started | listening at |  9094
+2023-10-06T21:23:27.018Z: server started | listening at |  9094
+2023-10-06T21:23:27.958Z: server started | listening at |  9094
+2023-10-06T21:23:29.743Z: server started | listening at |  9094
+2023-10-06T21:23:31.050Z: server started | listening at |  9094
+2023-10-06T21:23:33.170Z: server started | listening at |  9094
+2023-10-06T21:23:34.820Z: server started | listening at |  9094
+2023-10-06T21:23:37.726Z: server started | listening at |  9094
+2023-10-06T21:23:39.532Z: server started | listening at |  9094
+2023-10-06T21:23:47.800Z: server started | listening at |  9094
+2023-10-06T21:23:53.545Z: server started | listening at |  9094
+2023-10-06T21:23:57.666Z: server started | listening at |  9094
+2023-10-06T21:24:05.492Z: server started | listening at |  9094
+2023-10-06T21:24:09.360Z: server started | listening at |  9094
+2023-10-06T21:24:13.936Z: server started | listening at |  9094
+2023-10-06T21:24:34.753Z: server started | listening at |  9094
+2023-10-06T21:24:54.921Z: server started | listening at |  9094
+2023-10-06T21:24:56.324Z: server started | listening at |  9094
+2023-10-06T21:25:05.513Z: server started | listening at |  9094
+2023-10-06T21:25:11.995Z: server started | listening at |  9094
+2023-10-06T21:25:14.820Z: 
+2023-10-06T21:25:25.345Z: server started | listening at |  9094
+2023-10-06T21:25:27.488Z: 
+2023-10-06T21:26:17.402Z: server started | listening at |  9094
+2023-10-06T21:26:21.626Z: server started | listening at |  9094
+2023-10-06T21:26:33.095Z: server started | listening at |  9094
+2023-10-06T21:26:35.601Z: server started | listening at |  9094
+2023-10-06T21:26:38.074Z: 
+2023-10-06T21:27:27.245Z: server started | listening at |  9094
+2023-10-06T21:27:28.400Z: server started | listening at |  9094
+2023-10-06T21:27:31.425Z: 
+2023-10-06T21:27:43.540Z: server started | listening at |  9094
+2023-10-06T21:27:46.891Z: 
+2023-10-06T21:27:54.104Z: server started | listening at |  9094
+2023-10-06T21:27:56.297Z: 
+2023-10-06T21:28:35.768Z: server started | listening at |  9094
+2023-10-06T21:29:01.726Z: server started | listening at |  9094
+2023-10-06T21:29:03.654Z: 
+2023-10-06T21:29:23.099Z: server started | listening at |  9094
+2023-10-06T21:29:39.201Z: server started | listening at |  9094
+2023-10-06T21:29:40.975Z: server started | listening at |  9094
+2023-10-06T21:29:43.654Z: server started | listening at |  9094

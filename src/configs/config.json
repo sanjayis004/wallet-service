@@ -1,0 +1,6 @@
+{
+	"port":9094,
+	"MONGODB_HOST_PORT":"0.0.0.0:27017",
+	"MONGODB_DATABASE":"wallet_db"
+}
+

@@ -1,0 +1,99 @@
+2023-10-08T13:30:34.809Z: errrr TypeError: newTransaction.setupTransaction is not a function
+    at Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:16:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-08T13:32:27.619Z: server started | listening at |  9094
+2023-10-08T13:32:31.891Z: server started | listening at |  9094
+2023-10-08T13:33:11.640Z: errrr TypeError: Class constructor Transaction cannot be invoked without 'new'
+    at Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:16:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-08T13:33:35.461Z: server started | listening at |  9094
+2023-10-08T13:34:21.769Z: ValidationError: Transaction validation failed: walletId: Path `walletId` is required.
+    at Document.invalidate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:3173:32)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:2966:17
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/schematype.js:1367:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2023-10-08T13:36:19.672Z: server started | listening at |  9094
+2023-10-08T13:36:22.506Z: server started | listening at |  9094
+2023-10-08T13:36:23.400Z: server started | listening at |  9094
+2023-10-08T13:36:25.263Z: server started | listening at |  9094
+2023-10-08T13:36:26.228Z: server started | listening at |  9094
+2023-10-08T13:39:52.197Z: ReferenceError: updateResult is not defined
+    at Transaction.setupTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:28:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:13)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-08T13:40:26.277Z: {"walletId":"6522b128f410cdf4435fc5ea","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T13:46:55.190Z: {"amount":1000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:46:55.190Z: data |  {"amount":1000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:52:45.299Z: {"amount":1000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:52:45.300Z: data |  {"amount":1000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:53:20.028Z: {"amount":1000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:53:20.029Z: data |  {"amount":1000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:53:25.553Z: {"amount":1000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:53:25.553Z: data |  {"amount":1000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:01.320Z: {"walletId":"6522b128f410cdf4435fc5ea","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T13:55:15.966Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:15.966Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.085Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.086Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.245Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.245Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.387Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.388Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.561Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.561Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.720Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.720Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.884Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:16.884Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:18.439Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:18.439Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:18.619Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:18.620Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:18.778Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:18.779Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:18.933Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:18.934Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:21.340Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:21.340Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:23.289Z: {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:23.289Z: data |  {"amount":45000,"description":"gift","walletId":"6522b128f410cdf4435fc5ea"}
+2023-10-08T13:55:25.931Z: {"walletId":"6522b128f410cdf4435fc5ea","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T13:55:34.029Z: {"walletId":"6522b128f410cdf4435fc5ea","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T13:56:09.575Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay009" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T13:56:27.081Z: ReferenceError: updateResult is not defined
+    at Transaction.setupTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:28:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:13)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-08T13:57:57.432Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T14:00:07.118Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T14:00:07.972Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"asc"}
+2023-10-08T14:00:09.411Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T14:00:10.244Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-08T14:00:11.984Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"desc"}
+2023-10-08T14:00:13.064Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"asc"}
+2023-10-08T14:00:13.756Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T14:00:14.926Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"asc"}
+2023-10-08T14:00:15.667Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"desc"}
+2023-10-08T14:00:17.017Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-08T14:00:17.613Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T14:01:30.484Z: {"amount":0,"description":"gift","walletId":"6522b50bf410cdf4435fc63a"}
+2023-10-08T14:01:30.484Z: data |  {"amount":0,"description":"gift","walletId":"6522b50bf410cdf4435fc63a"}
+2023-10-08T14:19:43.935Z: {"amount":100,"description":"gift","walletId":"6522b50bf410cdf4435fc63a"}
+2023-10-08T14:19:43.936Z: data |  {"amount":100,"description":"gift","walletId":"6522b50bf410cdf4435fc63a"}
+2023-10-08T14:22:35.982Z: {"amount":100,"description":"gift","walletId":"6522b50bf410cdf4435fc63a"}
+2023-10-08T14:22:35.982Z: data |  {"amount":100,"description":"gift","walletId":"6522b50bf410cdf4435fc63a"}
+2023-10-08T14:22:43.013Z: {"amount":100,"description":"gift","walletId":"6522b50bf410cdf4435fc63a"}
+2023-10-08T14:22:43.014Z: data |  {"amount":100,"description":"gift","walletId":"6522b50bf410cdf4435fc63a"}
+2023-10-08T14:27:34.655Z: {"walletId":"6522b50bf410cdf4435fc63a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T14:28:27.439Z: ReferenceError: updateResult is not defined
+    at Transaction.setupTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:28:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:13)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)

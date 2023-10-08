@@ -1,0 +1,382 @@
+2023-10-07T20:31:29.271Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:31:29.280Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:33:41.601Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:33:41.605Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:33:48.193Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:33:48.195Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:34:17.038Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:34:17.043Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:34:35.892Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:34:35.897Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:34:41.845Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:34:41.846Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:34:47.853Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:34:47.859Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:14.873Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:14.876Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:15.230Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:15.231Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:15.806Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:15.807Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:16.232Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:16.234Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:16.629Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:16.630Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:16.948Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:16.949Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:17.551Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:17.552Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:23.638Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:23.642Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:33.478Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:33.483Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:35:39.176Z: {"walletId":"null","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:35:39.179Z: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+    at new ObjectId (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/node_modules/bson/lib/bson.cjs:2055:23)
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:23:51)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:54:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+2023-10-07T20:38:09.394Z: server started | listening at |  9094
+2023-10-07T20:49:39.579Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:52:05.575Z: {"amount":-10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:05.576Z: data |  {"amount":-10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:09.589Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:09.589Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:10.315Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:10.315Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:11.527Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:11.528Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:12.273Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:12.274Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:12.644Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:12.645Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:12.839Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:12.839Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:13.012Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:13.012Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:13.174Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:13.175Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:13.338Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:13.338Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:13.485Z: {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:13.486Z: data |  {"amount":10000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:16.578Z: {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:16.579Z: data |  {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:28.615Z: {"amount":100000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:52:28.615Z: data |  {"amount":100000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T20:55:47.200Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:56:31.814Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:56:32.694Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:56:47.325Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"100","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:08.814Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"100","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:10.814Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"100","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:13.481Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:16.672Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:21.818Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:24.380Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:24.948Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:25.102Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:25.305Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:29.641Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:34.812Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:38.343Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:57:40.935Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:58:36.634Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:58:44.379Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:58:49.815Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:59:29.562Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:59:34.809Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T20:59:57.856Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-07T20:59:59.234Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"desc"}
+2023-10-07T21:00:00.136Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-07T21:00:01.164Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"desc"}
+2023-10-07T21:00:01.995Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-07T21:00:05.675Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"desc"}
+2023-10-07T21:00:06.621Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-07T21:00:07.593Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"desc"}
+2023-10-07T21:00:08.556Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-07T21:00:09.311Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"desc"}
+2023-10-07T21:00:20.368Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"date","sortOrder":"asc"}
+2023-10-07T21:00:21.281Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-07T21:00:21.911Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"date","sortOrder":"asc"}
+2023-10-07T21:00:22.451Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-07T21:00:23.772Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-07T21:02:14.131Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:03:49.228Z: {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:49.229Z: data |  {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:52.648Z: {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:52.648Z: data |  {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:55.039Z: {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:55.039Z: data |  {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:58.489Z: {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:58.489Z: data |  {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:59.706Z: {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:03:59.706Z: data |  {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:02.529Z: {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:02.529Z: data |  {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:05.222Z: {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:05.222Z: data |  {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:08.037Z: {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:08.037Z: data |  {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:10.349Z: {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:10.350Z: data |  {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:12.905Z: {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:12.905Z: data |  {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:17.001Z: {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:17.001Z: data |  {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:19.269Z: {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:19.269Z: data |  {"amount":10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:22.163Z: {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:04:22.163Z: data |  {"amount":-10,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:12:02.062Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:06.081Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:07.926Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:09.611Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:10.927Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:12.211Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:13.240Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:16.621Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:25.427Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:26.667Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:27.827Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:12:29.001Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:14:31.094Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:14:34.690Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:14:35.365Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:14:37.253Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:16:39.785Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:16:43.812Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:16:53.947Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:17:25.332Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:18:59.765Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:19:35.187Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:19:36.772Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:19:38.015Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:19:39.282Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:19:43.375Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:22:27.675Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:22:36.392Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:23:06.212Z: {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.213Z: data |  {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.363Z: {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.363Z: data |  {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.525Z: {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.526Z: data |  {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.673Z: {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.673Z: data |  {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.836Z: {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.837Z: data |  {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.985Z: {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:06.985Z: data |  {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:07.154Z: {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:07.155Z: data |  {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:07.309Z: {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:07.309Z: data |  {"amount":-100000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:10.534Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:10.535Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:10.693Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:10.693Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:10.842Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:10.843Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:10.993Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:10.994Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.148Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.149Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.307Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.307Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.451Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.452Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.598Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.599Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.745Z: {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:11.745Z: data |  {"amount":-10000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:14.651Z: {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:14.651Z: data |  {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:14.810Z: {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:14.810Z: data |  {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:14.987Z: {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:14.988Z: data |  {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:15.165Z: {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:15.166Z: data |  {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:15.764Z: {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:15.764Z: data |  {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:17.074Z: {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:17.074Z: data |  {"amount":-1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:19.586Z: {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:19.586Z: data |  {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:20.213Z: {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:20.213Z: data |  {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:20.768Z: {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:20.769Z: data |  {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:21.317Z: {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:21.317Z: data |  {"amount":1000000000000000,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:35.557Z: {"amount":989910000799110,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:23:35.558Z: data |  {"amount":989910000799110,"description":"recharge","walletId":"6521c409e9e741ff56226b77"}
+2023-10-07T21:26:30.918Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-07T21:26:32.962Z: {"walletId":"6521c409e9e741ff56226b77","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}

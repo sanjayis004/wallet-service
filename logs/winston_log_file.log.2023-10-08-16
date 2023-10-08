@@ -1,0 +1,63 @@
+2023-10-08T10:48:45.014Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T11:02:18.652Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay009" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T11:03:38.454Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay009" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T11:08:48.008Z: {"amount":-12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:08:48.009Z: data |  {"amount":-12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:08:55.256Z: {"amount":-12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:08:55.256Z: data |  {"amount":-12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:08:57.228Z: {"amount":-12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:08:57.228Z: data |  {"amount":-12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:08:57.835Z: {"amount":-12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:08:57.835Z: data |  {"amount":-12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:00.469Z: {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:00.470Z: data |  {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:01.060Z: {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:01.060Z: data |  {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:01.378Z: {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:01.378Z: data |  {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:01.705Z: {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:01.705Z: data |  {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:03.943Z: {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:03.944Z: data |  {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:06.850Z: {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:06.850Z: data |  {"amount":12333434,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:44.547Z: {"amount":-24666868,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:44.547Z: data |  {"amount":-24666868,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:52.045Z: {"amount":-100,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:09:52.046Z: data |  {"amount":-100,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:14:05.470Z: {"amount":-100,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:14:05.471Z: data |  {"amount":-100,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:14:07.963Z: {"amount":-100,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:14:07.963Z: data |  {"amount":-100,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:14:08.788Z: {"amount":-100,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:14:08.789Z: data |  {"amount":-100,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:14:56.229Z: {"amount":-10000000,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:14:56.229Z: data |  {"amount":-10000000,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:15:07.208Z: {"amount":10000000,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:15:07.208Z: data |  {"amount":10000000,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:15:08.252Z: {"amount":10000000,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:15:08.252Z: data |  {"amount":10000000,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:15:18.843Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:18:09.223Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:18:13.235Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:19:29.733Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:20:45.763Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:24:36.726Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:25:58.107Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:26:01.990Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:26:04.259Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:26:08.323Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:26:11.334Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:26:33.983Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:26:36.733Z: {"walletId":"65228c8ee9e741ff56226d8a","skip":"0","limit":"10","sortColumn":"undefined","sortOrder":"undefined"}
+2023-10-08T11:26:47.734Z: {"amount":-9999600,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}
+2023-10-08T11:26:47.734Z: data |  {"amount":-9999600,"description":"recharge","walletId":"65228c8ee9e741ff56226d8a"}

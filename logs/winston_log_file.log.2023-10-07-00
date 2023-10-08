@@ -1,0 +1,230 @@
+2023-10-06T18:30:16.209Z: server started | listening at |  9094
+2023-10-06T18:30:17.601Z: TypeError: newWallet.create is not a function
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:29)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:47:12)
+2023-10-06T18:30:35.261Z: server started | listening at |  9094
+2023-10-06T18:30:37.121Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: walletId_1 dup key: { walletId: null }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:31:31.820Z: server started | listening at |  9094
+2023-10-06T18:33:24.602Z: server started | listening at |  9094
+2023-10-06T18:33:34.198Z: server started | listening at |  9094
+2023-10-06T18:34:24.089Z: server started | listening at |  9094
+2023-10-06T18:35:02.455Z: server started | listening at |  9094
+2023-10-06T18:35:05.482Z: server started | listening at |  9094
+2023-10-06T18:35:08.991Z: server started | listening at |  9094
+2023-10-06T18:35:25.590Z: server started | listening at |  9094
+2023-10-06T18:47:57.734Z: server started | listening at |  9094
+2023-10-06T18:48:03.678Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay2" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:49:26.733Z: server started | listening at |  9094
+2023-10-06T18:49:42.493Z: server started | listening at |  9094
+2023-10-06T18:49:56.474Z: server started | listening at |  9094
+2023-10-06T18:49:58.028Z: server started | listening at |  9094
+2023-10-06T18:50:01.572Z: server started | listening at |  9094
+2023-10-06T18:50:03.618Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay3" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:50:24.523Z: server started | listening at |  9094
+2023-10-06T18:50:26.943Z: server started | listening at |  9094
+2023-10-06T18:50:52.241Z: server started | listening at |  9094
+2023-10-06T18:51:31.522Z: server started | listening at |  9094
+2023-10-06T18:51:34.397Z: server started | listening at |  9094
+2023-10-06T18:51:46.715Z: server started | listening at |  9094
+2023-10-06T18:51:56.734Z: server started | listening at |  9094
+2023-10-06T18:51:57.535Z: server started | listening at |  9094
+2023-10-06T18:51:58.865Z: server started | listening at |  9094
+2023-10-06T18:52:00.237Z: server started | listening at |  9094
+2023-10-06T18:52:09.390Z: server started | listening at |  9094
+2023-10-06T18:52:13.507Z: server started | listening at |  9094
+2023-10-06T18:52:14.642Z: server started | listening at |  9094
+2023-10-06T18:52:16.206Z: ReferenceError: logger is not defined
+    at Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:7)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:79:13)
+2023-10-06T18:52:53.428Z: server started | listening at |  9094
+2023-10-06T18:52:55.579Z: ReferenceError: logger is not defined
+    at Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:7)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:82:13)
+2023-10-06T18:53:02.065Z: server started | listening at |  9094
+2023-10-06T18:53:21.603Z: server started | listening at |  9094
+2023-10-06T18:53:23.195Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay3" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:53:45.607Z: server started | listening at |  9094
+2023-10-06T18:54:03.444Z: server started | listening at |  9094
+2023-10-06T18:54:04.894Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay3" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:54:32.720Z: server started | listening at |  9094
+2023-10-06T18:54:34.379Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay3" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:54:34.379Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay3" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:55:06.359Z: ReferenceError: rs is not defined
+    at Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:15:37)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-06T18:55:06.360Z: ReferenceError: rs is not defined
+    at Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:15:37)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-06T18:55:20.535Z: server started | listening at |  9094
+2023-10-06T18:55:26.873Z: server started | listening at |  9094
+2023-10-06T18:55:28.988Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay4" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:55:28.988Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay4" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:55:52.069Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay5" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:55:52.069Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay5" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:55:55.234Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay5" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:55:55.234Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay5" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:56:11.274Z: server started | listening at |  9094
+2023-10-06T18:56:15.734Z: server started | listening at |  9094
+2023-10-06T18:56:25.238Z: server started | listening at |  9094
+2023-10-06T18:56:26.567Z: server started | listening at |  9094
+2023-10-06T18:57:11.800Z: server started | listening at |  9094
+2023-10-06T18:57:13.522Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay5" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:57:13.522Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay5" }
+2023-10-06T18:57:35.321Z: server started | listening at |  9094
+2023-10-06T18:57:39.077Z: server started | listening at |  9094
+2023-10-06T18:57:41.390Z: server started | listening at |  9094
+2023-10-06T18:57:42.609Z: server started | listening at |  9094
+2023-10-06T18:57:45.709Z: server started | listening at |  9094
+2023-10-06T19:03:26.474Z: server started | listening at |  9094
+2023-10-06T19:03:27.073Z: server started | listening at |  9094
+2023-10-06T19:03:57.006Z: server started | listening at |  9094
+2023-10-06T19:03:57.784Z: server started | listening at |  9094
+2023-10-06T19:03:59.954Z: ValidationError: Wallet validation failed: name: Path `name` is required.
+    at model.Document.invalidate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:3173:32)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:2966:17
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/schematype.js:1368:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+2023-10-06T19:03:59.955Z: ValidationError: name: Path `name` is required.
+2023-10-06T19:04:45.983Z: server started | listening at |  9094
+2023-10-06T19:04:46.789Z: server started | listening at |  9094
+2023-10-06T19:04:49.598Z: ValidationError: Wallet validation failed: name: Path `name` is required.
+    at model.Document.invalidate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:3173:32)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:2966:17
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/schematype.js:1368:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+2023-10-06T19:04:49.598Z: ValidationError: name: Path `name` is required.
+2023-10-06T19:04:59.252Z: server started | listening at |  9094
+2023-10-06T19:05:03.754Z: server started | listening at |  9094
+2023-10-06T19:05:05.132Z: server started | listening at |  9094
+2023-10-06T19:09:30.442Z: server started | listening at |  9094
+2023-10-06T19:09:41.966Z: ValidationError: Wallet validation failed: name: Path `name` is required.
+    at model.Document.invalidate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:3173:32)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:2966:17
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/schematype.js:1368:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+2023-10-06T19:09:41.966Z: ValidationError: name: Path `name` is required.
+2023-10-06T19:10:05.499Z: server started | listening at |  9094
+2023-10-06T19:10:13.617Z: server started | listening at |  9094
+2023-10-06T19:10:23.858Z: server started | listening at |  9094
+2023-10-06T19:10:57.032Z: server started | listening at |  9094
+2023-10-06T19:11:14.394Z: server started | listening at |  9094
+2023-10-06T19:11:29.510Z: server started | listening at |  9094
+2023-10-06T19:11:30.544Z: server started | listening at |  9094
+2023-10-06T19:11:31.512Z: server started | listening at |  9094
+2023-10-06T19:11:36.022Z: server started | listening at |  9094
+2023-10-06T19:11:43.964Z: server started | listening at |  9094
+2023-10-06T19:11:45.348Z: server started | listening at |  9094
+2023-10-06T19:11:58.939Z: server started | listening at |  9094
+2023-10-06T19:12:00.622Z: server started | listening at |  9094
+2023-10-06T19:13:47.584Z: server started | listening at |  9094
+2023-10-06T19:13:54.377Z: server started | listening at |  9094
+2023-10-06T19:13:57.051Z: server started | listening at |  9094
+2023-10-06T19:14:04.558Z: server started | listening at |  9094
+2023-10-06T19:14:06.262Z: server started | listening at |  9094
+2023-10-06T19:17:06.243Z: server started | listening at |  9094
+2023-10-06T19:17:11.475Z: ReferenceError: Wallet is not defined
+    at module.exports.executeTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:32:26)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+2023-10-06T19:17:59.915Z: server started | listening at |  9094
+2023-10-06T19:18:27.304Z: server started | listening at |  9094
+2023-10-06T19:20:09.632Z: server started | listening at |  9094
+2023-10-06T19:20:11.924Z: ReferenceError: ObjectId is not defined
+    at Transaction.transact (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:14:22)
+    at module.exports.executeTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:33:52)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+2023-10-06T19:20:11.925Z: ReferenceError: ObjectId is not defined
+2023-10-06T19:20:33.692Z: server started | listening at |  9094
+2023-10-06T19:20:37.049Z: TypeError: Class constructor ObjectId cannot be invoked without 'new'
+    at Transaction.transact (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:15:22)
+    at module.exports.executeTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:33:52)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+2023-10-06T19:20:37.050Z: TypeError: Class constructor ObjectId cannot be invoked without 'new'
+2023-10-06T19:20:47.524Z: server started | listening at |  9094
+2023-10-06T19:22:22.031Z: server started | listening at |  9094
+2023-10-06T19:24:34.728Z: server started | listening at |  9094
+2023-10-06T19:24:48.254Z: server started | listening at |  9094
+2023-10-06T19:24:49.229Z: server started | listening at |  9094
+2023-10-06T19:24:50.771Z: server started | listening at |  9094
+2023-10-06T19:25:22.866Z: server started | listening at |  9094
+2023-10-06T19:25:24.983Z: server started | listening at |  9094
+2023-10-06T19:25:27.435Z: server started | listening at |  9094
+2023-10-06T19:25:31.581Z: server started | listening at |  9094
+2023-10-06T19:25:45.054Z: server started | listening at |  9094
+2023-10-06T19:25:47.670Z: {"acknowledged":true,"modifiedCount":0,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+2023-10-06T19:28:39.027Z: {"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}

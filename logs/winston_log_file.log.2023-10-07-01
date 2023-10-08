@@ -1,0 +1,244 @@
+2023-10-06T19:42:59.579Z: server started | listening at |  9094
+2023-10-06T19:43:01.040Z: server started | listening at |  9094
+2023-10-06T19:43:34.496Z: server started | listening at |  9094
+2023-10-06T19:43:36.859Z: server started | listening at |  9094
+2023-10-06T19:44:07.664Z: server started | listening at |  9094
+2023-10-06T19:49:39.387Z: server started | listening at |  9094
+2023-10-06T19:51:03.103Z: server started | listening at |  9094
+2023-10-06T19:51:34.665Z: server started | listening at |  9094
+2023-10-06T19:51:38.497Z: server started | listening at |  9094
+2023-10-06T19:52:13.563Z: server started | listening at |  9094
+2023-10-06T19:53:48.331Z: server started | listening at |  9094
+2023-10-06T19:53:54.053Z: server started | listening at |  9094
+2023-10-06T19:54:11.065Z: server started | listening at |  9094
+2023-10-06T19:54:14.322Z: server started | listening at |  9094
+2023-10-06T19:54:25.044Z: server started | listening at |  9094
+2023-10-06T19:54:39.244Z: server started | listening at |  9094
+2023-10-06T19:54:51.111Z: server started | listening at |  9094
+2023-10-06T19:54:52.501Z: server started | listening at |  9094
+2023-10-06T19:56:34.467Z: server started | listening at |  9094
+2023-10-06T19:56:46.241Z: server started | listening at |  9094
+2023-10-06T19:56:55.322Z: server started | listening at |  9094
+2023-10-06T19:57:12.097Z: server started | listening at |  9094
+2023-10-06T19:57:17.262Z: server started | listening at |  9094
+2023-10-06T19:57:27.014Z: server started | listening at |  9094
+2023-10-06T19:57:28.017Z: server started | listening at |  9094
+2023-10-06T19:57:46.232Z: server started | listening at |  9094
+2023-10-06T19:58:03.346Z: server started | listening at |  9094
+2023-10-06T19:58:04.521Z: server started | listening at |  9094
+2023-10-06T19:58:14.094Z: server started | listening at |  9094
+2023-10-06T19:58:15.190Z: server started | listening at |  9094
+2023-10-06T19:58:23.327Z: TypeError: TransactionModel is not a constructor
+    at Transaction.transact (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:15:31)
+    at module.exports.executeTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:33:52)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+2023-10-06T19:58:23.327Z: TypeError: TransactionModel is not a constructor
+2023-10-06T19:59:07.031Z: server started | listening at |  9094
+2023-10-06T19:59:09.780Z: ValidationError: Transaction validation failed: transactionId: Path `transactionId` is required.
+    at model.Document.invalidate (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:3173:32)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/document.js:2966:17
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/schematype.js:1368:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+2023-10-06T19:59:09.781Z: ValidationError: transactionId: Path `transactionId` is required.
+2023-10-06T19:59:22.707Z: server started | listening at |  9094
+2023-10-06T19:59:24.765Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T19:59:24.765Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:01:08.270Z: server started | listening at |  9094
+2023-10-06T20:01:12.187Z: MongoServerError: E11000 duplicate key error collection: test.transactions index: transactionId_1 dup key: { transactionId: null }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T20:01:12.187Z: MongoServerError: E11000 duplicate key error collection: test.transactions index: transactionId_1 dup key: { transactionId: null }
+2023-10-06T20:02:28.552Z: MongoServerError: E11000 duplicate key error collection: test.transactions index: transactionId_1 dup key: { transactionId: null }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T20:02:28.553Z: MongoServerError: E11000 duplicate key error collection: test.transactions index: transactionId_1 dup key: { transactionId: null }
+2023-10-06T20:02:56.363Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:02:56.363Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:05:40.752Z: server started | listening at |  9094
+2023-10-06T20:05:51.598Z: server started | listening at |  9094
+2023-10-06T20:05:57.098Z: server started | listening at |  9094
+2023-10-06T20:05:59.195Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:05:59.195Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:07:16.811Z: server started | listening at |  9094
+2023-10-06T20:07:20.423Z: server started | listening at |  9094
+2023-10-06T20:07:24.627Z: server started | listening at |  9094
+2023-10-06T20:07:25.930Z: server started | listening at |  9094
+2023-10-06T20:07:54.768Z: server started | listening at |  9094
+2023-10-06T20:07:55.762Z: server started | listening at |  9094
+2023-10-06T20:07:58.178Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:07:58.178Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:08:25.486Z: server started | listening at |  9094
+2023-10-06T20:08:39.115Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:08:39.116Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:10:43.897Z: server started | listening at |  9094
+2023-10-06T20:10:44.614Z: server started | listening at |  9094
+2023-10-06T20:10:47.454Z: server started | listening at |  9094
+2023-10-06T20:10:50.489Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:10:50.490Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:15:30.395Z: server started | listening at |  9094
+2023-10-06T20:15:32.952Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:15:32.952Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:16:13.160Z: server started | listening at |  9094
+2023-10-06T20:16:17.093Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:16:17.093Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:17:15.893Z: server started | listening at |  9094
+2023-10-06T20:17:17.978Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:17:17.978Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:18:29.233Z: server started | listening at |  9094
+2023-10-06T20:18:32.834Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:18:32.834Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:19:56.236Z: server started | listening at |  9094
+2023-10-06T20:19:57.851Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:19:57.851Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:20:37.886Z: server started | listening at |  9094
+2023-10-06T20:20:39.682Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:20:39.683Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:21:08.384Z: server started | listening at |  9094
+2023-10-06T20:21:14.574Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3670:23)
+    at serializeObject (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3232:22)
+    at serializeInto (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:3666:25)
+    at Object.serialize (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/bson/lib/bson.cjs:4048:32)
+    at Msg.serializeBson (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:383:21)
+    at Msg.makeDocumentSegment (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:377:37)
+    at Msg.toBin (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/commands.js:366:29)
+    at MessageStream.writeCommand (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:43:34)
+    at write (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:479:30)
+    at Connection.command (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:312:13)
+2023-10-06T20:21:14.574Z: BSONVersionError: Unsupported BSON version, bson types must be from bson 5.0 or later
+2023-10-06T20:24:13.601Z: MongooseError: Operation `transactions.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+2023-10-06T20:24:13.604Z: MongooseError: Operation `transactions.insertOne()` buffering timed out after 10000ms
+2023-10-06T20:29:53.923Z: server started | listening at |  9094
+2023-10-06T20:29:59.284Z: server started | listening at |  9094

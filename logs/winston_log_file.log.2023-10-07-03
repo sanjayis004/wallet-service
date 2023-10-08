@@ -1,0 +1,174 @@
+2023-10-06T21:38:04.271Z: server started | listening at |  9094
+2023-10-06T21:38:09.183Z: server started | listening at |  9094
+2023-10-06T21:38:17.915Z: server started | listening at |  9094
+2023-10-06T21:38:20.052Z: 
+2023-10-06T21:39:05.916Z: server started | listening at |  9094
+2023-10-06T21:39:15.409Z: server started | listening at |  9094
+2023-10-06T21:39:18.391Z: 
+2023-10-06T21:39:38.927Z: server started | listening at |  9094
+2023-10-06T21:39:42.412Z: server started | listening at |  9094
+2023-10-06T21:39:43.445Z: server started | listening at |  9094
+2023-10-06T21:41:17.493Z: server started | listening at |  9094
+2023-10-06T21:41:52.534Z: server started | listening at |  9094
+2023-10-06T21:42:00.773Z: server started | listening at |  9094
+2023-10-06T21:42:04.078Z: server started | listening at |  9094
+2023-10-06T21:42:06.089Z: server started | listening at |  9094
+2023-10-06T21:42:21.942Z: server started | listening at |  9094
+2023-10-06T21:42:29.811Z: server started | listening at |  9094
+2023-10-06T21:43:55.477Z: server started | listening at |  9094
+2023-10-06T21:44:09.079Z: server started | listening at |  9094
+2023-10-06T21:44:29.491Z: server started | listening at |  9094
+2023-10-06T21:44:50.249Z: server started | listening at |  9094
+2023-10-06T21:44:57.327Z: server started | listening at |  9094
+2023-10-06T21:44:59.490Z: server started | listening at |  9094
+2023-10-06T21:45:03.772Z: server started | listening at |  9094
+2023-10-06T21:45:08.476Z: server started | listening at |  9094
+2023-10-06T21:45:55.615Z: server started | listening at |  9094
+2023-10-06T21:46:12.369Z: server started | listening at |  9094
+2023-10-06T21:46:13.673Z: server started | listening at |  9094
+2023-10-06T21:46:15.652Z: server started | listening at |  9094
+2023-10-06T21:46:18.060Z: server started | listening at |  9094
+2023-10-06T21:46:26.759Z: server started | listening at |  9094
+2023-10-06T21:46:40.811Z: server started | listening at |  9094
+2023-10-06T21:46:41.568Z: server started | listening at |  9094
+2023-10-06T21:46:44.365Z: server started | listening at |  9094
+2023-10-06T21:46:45.808Z: server started | listening at |  9094
+2023-10-06T21:46:47.582Z: server started | listening at |  9094
+2023-10-06T21:46:52.144Z: server started | listening at |  9094
+2023-10-06T21:46:53.332Z: server started | listening at |  9094
+2023-10-06T21:47:52.527Z: ReferenceError: req is not defined
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:60:24)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+2023-10-06T21:48:25.734Z: server started | listening at |  9094
+2023-10-06T21:48:27.018Z: ReferenceError: data is not defined
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:61:21)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+2023-10-06T21:49:00.939Z: server started | listening at |  9094
+2023-10-06T21:49:09.375Z: server started | listening at |  9094
+2023-10-06T21:49:11.270Z: ReferenceError: data is not defined
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:61:21)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+2023-10-06T21:49:22.027Z: server started | listening at |  9094
+2023-10-06T21:49:23.484Z: ReferenceError: ObjectId is not defined
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:22:55)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:63:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+2023-10-06T21:49:23.485Z: ReferenceError: ObjectId is not defined
+2023-10-06T21:49:41.972Z: server started | listening at |  9094
+2023-10-06T21:49:43.542Z: ReferenceError: walletId is not defined
+    at Wallet.fetchById (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:22:64)
+    at module.exports.getWalletById (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:63:45)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:365:14)
+    at param (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:421:3)
+2023-10-06T21:49:43.543Z: ReferenceError: walletId is not defined
+2023-10-06T21:49:54.193Z: server started | listening at |  9094
+2023-10-06T21:50:17.081Z: server started | listening at |  9094
+2023-10-06T21:50:17.868Z: server started | listening at |  9094
+2023-10-06T21:50:20.792Z: server started | listening at |  9094
+2023-10-06T21:51:12.177Z: server started | listening at |  9094
+2023-10-06T21:51:16.572Z: server started | listening at |  9094
+2023-10-06T21:51:19.946Z: server started | listening at |  9094
+2023-10-06T21:51:21.891Z: server started | listening at |  9094
+2023-10-06T21:51:22.939Z: server started | listening at |  9094
+2023-10-06T21:51:24.176Z: server started | listening at |  9094
+2023-10-06T21:51:25.978Z: server started | listening at |  9094
+2023-10-06T21:51:40.424Z: server started | listening at |  9094
+2023-10-06T21:51:42.820Z: server started | listening at |  9094
+2023-10-06T21:51:44.132Z: server started | listening at |  9094
+2023-10-06T21:51:45.760Z: server started | listening at |  9094
+2023-10-06T21:51:55.000Z: server started | listening at |  9094
+2023-10-06T21:51:56.247Z: server started | listening at |  9094
+2023-10-06T21:52:03.367Z: server started | listening at |  9094
+2023-10-06T21:52:12.064Z: server started | listening at |  9094
+2023-10-06T21:52:25.602Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay7" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-06T21:52:25.602Z: ReferenceError: walletDetailsRes is not defined
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:36:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-06T21:53:33.903Z: server started | listening at |  9094
+2023-10-06T21:53:35.773Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay7" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-06T21:53:35.773Z: ReferenceError: walletDetailsRes is not defined
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:36:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-06T21:53:47.856Z: server started | listening at |  9094
+2023-10-06T21:53:53.365Z: server started | listening at |  9094
+2023-10-06T21:53:54.796Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay7" }
+2023-10-06T21:53:54.796Z: ReferenceError: walletDetailsRes is not defined
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:36:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-06T21:54:27.281Z: server started | listening at |  9094
+2023-10-06T21:54:34.754Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay7" }
+2023-10-06T21:55:13.302Z: server started | listening at |  9094
+2023-10-06T21:55:59.240Z: server started | listening at |  9094
+2023-10-06T21:56:00.740Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay7" }
+2023-10-06T21:56:16.783Z: server started | listening at |  9094
+2023-10-06T21:56:17.822Z: errrr 11000
+2023-10-06T21:56:27.476Z: server started | listening at |  9094
+2023-10-06T21:56:29.838Z: server started | listening at |  9094
+2023-10-06T21:56:31.017Z: server started | listening at |  9094
+2023-10-06T21:56:34.240Z: server started | listening at |  9094
+2023-10-06T21:57:01.014Z: server started | listening at |  9094
+2023-10-06T21:57:02.588Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay7" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-06T22:01:35.919Z: server started | listening at |  9094
+2023-10-06T22:04:55.089Z: server started | listening at |  9094
+2023-10-06T22:05:06.862Z: ReferenceError: amount is not defined
+    at Transaction.transact (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:33:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports.executeTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:33:34)
+2023-10-06T22:05:31.335Z: server started | listening at |  9094
+2023-10-06T22:08:48.384Z: server started | listening at |  9094
+2023-10-06T22:09:01.280Z: server started | listening at |  9094
+2023-10-06T22:12:31.888Z: server started | listening at |  9094
+2023-10-06T22:12:55.747Z: server started | listening at |  9094
+2023-10-06T22:13:54.946Z: server started | listening at |  9094
+2023-10-06T22:14:28.669Z: server started | listening at |  9094
+2023-10-06T22:14:54.159Z: server started | listening at |  9094
+2023-10-06T22:15:06.898Z: server started | listening at |  9094
+2023-10-06T22:15:10.519Z: server started | listening at |  9094
+2023-10-06T22:15:19.511Z: server started | listening at |  9094
+2023-10-06T22:15:23.194Z: server started | listening at |  9094

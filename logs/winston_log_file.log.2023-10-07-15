@@ -1,0 +1,19 @@
+2023-10-07T09:57:18.963Z: server started | listening at |  9094
+2023-10-07T10:15:45.488Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay_sharma_004" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-07T10:19:03.418Z: server started | listening at |  9094
+2023-10-07T10:19:04.206Z: server started | listening at |  9094
+2023-10-07T10:19:09.397Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay_sharma_004" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-07T10:20:01.458Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay_sharma_004" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-07T10:22:51.885Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay_sharma_004" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

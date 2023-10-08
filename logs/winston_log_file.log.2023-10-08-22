@@ -1,0 +1,116 @@
+2023-10-08T16:30:25.080Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T16:32:04.772Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T16:40:24.035Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T16:45:09.396Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T16:47:40.267Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T16:48:21.996Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T16:48:49.440Z: {"amount":10000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:48:49.440Z: data |  {"amount":10000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:48:54.249Z: {"amount":-10000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:48:54.250Z: data |  {"amount":-10000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:48:56.516Z: {"amount":-10000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:48:56.516Z: data |  {"amount":-10000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:01.594Z: {"walletId":"6522dd6606b262e0490b7078","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T16:49:14.085Z: {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:14.085Z: data |  {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:14.664Z: {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:14.665Z: data |  {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:14.806Z: {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:14.807Z: data |  {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:14.953Z: {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:14.953Z: data |  {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:15.082Z: {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:15.083Z: data |  {"amount":100000,"description":"gift","walletId":"6522dd6606b262e0490b7078"}
+2023-10-08T16:49:22.442Z: {"walletId":"6522dd6606b262e0490b7078","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:00:47.812Z: {"amount":100,"description":"gift","walletId":"6522de9c06b262e0490b709a"}
+2023-10-08T17:00:47.813Z: data |  {"amount":100,"description":"gift","walletId":"6522de9c06b262e0490b709a"}
+2023-10-08T17:01:01.479Z: {"walletId":"6522de9c06b262e0490b709a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:01:55.004Z: {"walletId":"6522de9c06b262e0490b709a","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:06:33.924Z: {"amount":123.34343434,"description":"gift","walletId":"6522de9c06b262e0490b709a"}
+2023-10-08T17:06:33.924Z: data |  {"amount":123.34343434,"description":"gift","walletId":"6522de9c06b262e0490b709a"}
+2023-10-08T17:23:12.316Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T17:24:00.935Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:24:32.296Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:26:11.555Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:26:43.886Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:26:56.762Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:27:20.576Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:27:23.550Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:27:58.552Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:28:16.552Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:28:21.399Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:28:22.124Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-08T17:28:22.785Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"desc"}
+2023-10-08T17:28:24.362Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"amount","sortOrder":"asc"}
+2023-10-08T17:28:24.874Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:28:34.687Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:34.687Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.273Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.274Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.430Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.430Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.590Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.590Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.739Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.739Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.883Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:39.883Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.045Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.045Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.192Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.192Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.338Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.339Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.494Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.494Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.642Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.642Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.788Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.788Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.953Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:40.953Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.104Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.104Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.246Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.247Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.402Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.403Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.566Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.567Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.722Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.722Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.876Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:41.876Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:45.341Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:45.341Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:45.508Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:45.508Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:45.671Z: {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:45.672Z: data |  {"amount":1000,"description":"gift","walletId":"6522e58306b262e0490b70af"}
+2023-10-08T17:28:47.079Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:28:55.584Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:28:56.061Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:29:45.293Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:29:48.641Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:29:54.829Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}

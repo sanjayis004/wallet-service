@@ -1,0 +1,228 @@
+2023-10-06T17:36:48.728Z: mongo connection |  true
+2023-10-06T17:36:48.728Z: server started | listening at |  9094
+2023-10-06T17:36:59.498Z: mongo connection |  true
+2023-10-06T17:36:59.499Z: server started | listening at |  9094
+2023-10-06T17:37:10.024Z: mongo connection |  true
+2023-10-06T17:37:10.024Z: server started | listening at |  9094
+2023-10-06T17:37:11.762Z: mongo connection |  true
+2023-10-06T17:37:11.762Z: server started | listening at |  9094
+2023-10-06T17:37:19.027Z: mongo connection |  true
+2023-10-06T17:37:19.027Z: server started | listening at |  9094
+2023-10-06T17:37:20.953Z: mongo connection |  true
+2023-10-06T17:37:20.954Z: server started | listening at |  9094
+2023-10-06T17:37:22.693Z: mongo connection |  true
+2023-10-06T17:37:22.694Z: server started | listening at |  9094
+2023-10-06T17:41:22.706Z: mongo connection |  true
+2023-10-06T17:41:22.707Z: server started | listening at |  9094
+2023-10-06T17:41:29.931Z: mongo connection |  true
+2023-10-06T17:41:29.932Z: server started | listening at |  9094
+2023-10-06T17:41:32.797Z: mongo connection |  true
+2023-10-06T17:41:32.797Z: server started | listening at |  9094
+2023-10-06T17:41:41.867Z: mongo connection |  true
+2023-10-06T17:41:41.868Z: server started | listening at |  9094
+2023-10-06T17:41:43.760Z: mongo connection |  true
+2023-10-06T17:41:43.760Z: server started | listening at |  9094
+2023-10-06T17:41:44.666Z: mongo connection |  true
+2023-10-06T17:41:44.667Z: server started | listening at |  9094
+2023-10-06T17:41:49.513Z: mongo connection |  true
+2023-10-06T17:41:49.514Z: server started | listening at |  9094
+2023-10-06T17:41:50.192Z: mongo connection |  true
+2023-10-06T17:41:50.192Z: server started | listening at |  9094
+2023-10-06T17:41:51.162Z: mongo connection |  true
+2023-10-06T17:41:51.163Z: server started | listening at |  9094
+2023-10-06T17:41:52.212Z: mongo connection |  true
+2023-10-06T17:41:52.213Z: server started | listening at |  9094
+2023-10-06T17:41:53.195Z: mongo connection |  true
+2023-10-06T17:41:53.195Z: server started | listening at |  9094
+2023-10-06T17:41:58.226Z: mongo connection |  true
+2023-10-06T17:41:58.226Z: server started | listening at |  9094
+2023-10-06T17:41:59.174Z: mongo connection |  true
+2023-10-06T17:41:59.175Z: server started | listening at |  9094
+2023-10-06T17:42:10.664Z: mongo connection |  true
+2023-10-06T17:42:10.665Z: server started | listening at |  9094
+2023-10-06T17:42:16.718Z: mongo connection |  true
+2023-10-06T17:42:16.718Z: server started | listening at |  9094
+2023-10-06T17:42:18.685Z: mongo connection |  true
+2023-10-06T17:42:18.686Z: server started | listening at |  9094
+2023-10-06T17:42:22.430Z: mongo connection |  true
+2023-10-06T17:42:22.430Z: server started | listening at |  9094
+2023-10-06T17:42:23.714Z: mongo connection |  true
+2023-10-06T17:42:23.715Z: server started | listening at |  9094
+2023-10-06T17:42:25.169Z: mongo connection |  true
+2023-10-06T17:42:25.169Z: server started | listening at |  9094
+2023-10-06T17:42:27.239Z: mongo connection |  true
+2023-10-06T17:42:27.239Z: server started | listening at |  9094
+2023-10-06T17:42:42.907Z: mongo connection |  true
+2023-10-06T17:42:42.907Z: server started | listening at |  9094
+2023-10-06T17:43:05.881Z: mongo connection |  true
+2023-10-06T17:43:05.882Z: server started | listening at |  9094
+2023-10-06T17:43:23.267Z: mongo connection |  true
+2023-10-06T17:43:23.268Z: server started | listening at |  9094
+2023-10-06T17:43:25.981Z: ReferenceError: Joi is not defined
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:7:24)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:47:12)
+2023-10-06T17:43:47.208Z: mongo connection |  true
+2023-10-06T17:43:47.208Z: server started | listening at |  9094
+2023-10-06T17:44:03.073Z: mongo connection |  true
+2023-10-06T17:44:03.073Z: server started | listening at |  9094
+2023-10-06T17:45:10.504Z: mongo connection |  true
+2023-10-06T17:45:10.504Z: server started | listening at |  9094
+2023-10-06T17:45:11.882Z: mongo connection |  true
+2023-10-06T17:45:11.882Z: server started | listening at |  9094
+2023-10-06T17:45:14.491Z: TypeError: Cannot read properties of undefined (reading 'name')
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:28:42)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:47:12)
+2023-10-06T17:46:10.173Z: mongo connection |  true
+2023-10-06T17:46:10.173Z: server started | listening at |  9094
+2023-10-06T17:46:12.209Z: TypeError: Cannot read properties of undefined (reading 'name')
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:29:42)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:47:12)
+2023-10-06T17:46:51.621Z: mongo connection |  true
+2023-10-06T17:46:51.622Z: server started | listening at |  9094
+2023-10-06T17:47:00.013Z: mongo connection |  true
+2023-10-06T17:47:00.013Z: server started | listening at |  9094
+2023-10-06T17:47:34.419Z: mongo connection |  true
+2023-10-06T17:47:34.420Z: server started | listening at |  9094
+2023-10-06T17:48:17.591Z: mongo connection |  true
+2023-10-06T17:48:17.592Z: server started | listening at |  9094
+2023-10-06T17:48:38.083Z: mongo connection |  true
+2023-10-06T17:48:38.084Z: server started | listening at |  9094
+2023-10-06T17:49:42.609Z: mongo connection |  true
+2023-10-06T17:49:42.610Z: server started | listening at |  9094
+2023-10-06T17:49:45.173Z: mongo connection |  true
+2023-10-06T17:49:45.174Z: server started | listening at |  9094
+2023-10-06T17:49:57.046Z: mongo connection |  true
+2023-10-06T17:49:57.047Z: server started | listening at |  9094
+2023-10-06T17:52:04.136Z: mongo connection |  true
+2023-10-06T17:52:04.136Z: server started | listening at |  9094
+2023-10-06T17:53:36.459Z: mongo connection |  true
+2023-10-06T17:53:36.460Z: server started | listening at |  9094
+2023-10-06T17:53:37.537Z: mongo connection |  true
+2023-10-06T17:53:37.538Z: server started | listening at |  9094
+2023-10-06T17:53:38.790Z: mongo connection |  true
+2023-10-06T17:53:38.791Z: server started | listening at |  9094
+2023-10-06T17:53:41.101Z: mongo connection |  true
+2023-10-06T17:53:41.101Z: server started | listening at |  9094
+2023-10-06T17:53:48.319Z: mongo connection |  true
+2023-10-06T17:53:48.320Z: server started | listening at |  9094
+2023-10-06T17:53:57.343Z: mongo connection |  true
+2023-10-06T17:53:57.344Z: server started | listening at |  9094
+2023-10-06T17:54:04.067Z: mongo connection |  true
+2023-10-06T17:54:04.068Z: server started | listening at |  9094
+2023-10-06T17:56:32.326Z: mongo connection |  true
+2023-10-06T17:56:32.326Z: server started | listening at |  9094
+2023-10-06T17:56:33.866Z: mongo connection |  true
+2023-10-06T17:56:33.866Z: server started | listening at |  9094
+2023-10-06T18:05:28.243Z: mongo connection |  true
+2023-10-06T18:05:28.243Z: server started | listening at |  9094
+2023-10-06T18:05:35.439Z: mongo connection |  true
+2023-10-06T18:05:35.439Z: server started | listening at |  9094
+2023-10-06T18:05:44.521Z: mongo connection |  true
+2023-10-06T18:05:44.522Z: server started | listening at |  9094
+2023-10-06T18:06:02.728Z: mongo connection |  true
+2023-10-06T18:06:02.728Z: server started | listening at |  9094
+2023-10-06T18:08:05.996Z: mongo connection |  true
+2023-10-06T18:08:05.997Z: server started | listening at |  9094
+2023-10-06T18:09:30.481Z: mongo connection |  true
+2023-10-06T18:09:30.482Z: server started | listening at |  9094
+2023-10-06T18:09:32.493Z: mongo connection |  true
+2023-10-06T18:09:32.493Z: server started | listening at |  9094
+2023-10-06T18:09:37.681Z: mongo connection |  true
+2023-10-06T18:09:37.682Z: server started | listening at |  9094
+2023-10-06T18:09:50.593Z: mongo connection |  true
+2023-10-06T18:09:50.594Z: server started | listening at |  9094
+2023-10-06T18:10:03.556Z: mongo connection |  true
+2023-10-06T18:10:03.557Z: server started | listening at |  9094
+2023-10-06T18:10:19.461Z: mongo connection |  true
+2023-10-06T18:10:19.462Z: server started | listening at |  9094
+2023-10-06T18:10:32.772Z: mongo connection |  true
+2023-10-06T18:10:32.772Z: server started | listening at |  9094
+2023-10-06T18:13:43.319Z: mongo connection |  true
+2023-10-06T18:13:43.320Z: server started | listening at |  9094
+2023-10-06T18:13:44.659Z: mongo connection |  true
+2023-10-06T18:13:44.660Z: server started | listening at |  9094
+2023-10-06T18:14:08.731Z: mongo connection |  true
+2023-10-06T18:14:08.731Z: server started | listening at |  9094
+2023-10-06T18:14:10.207Z: mongo connection |  true
+2023-10-06T18:14:10.208Z: server started | listening at |  9094
+2023-10-06T18:15:14.497Z: mongo connection |  true
+2023-10-06T18:15:14.498Z: server started | listening at |  9094
+2023-10-06T18:15:16.940Z: TypeError: newWallet.create is not a function
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:31:29)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:47:12)
+2023-10-06T18:15:45.108Z: mongo connection |  true
+2023-10-06T18:15:45.109Z: server started | listening at |  9094
+2023-10-06T18:15:47.200Z: TypeError: newWallet.create is not a function
+    at module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:29)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/express/lib/router/index.js:47:12)
+2023-10-06T18:16:02.019Z: mongo connection |  true
+2023-10-06T18:16:02.020Z: server started | listening at |  9094
+2023-10-06T18:16:14.295Z: MongooseError: Operation `wallets.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+2023-10-06T18:17:01.633Z: mongo connection |  true
+2023-10-06T18:17:01.634Z: server started | listening at |  9094
+2023-10-06T18:17:54.144Z: mongo connection |  true
+2023-10-06T18:17:54.145Z: server started | listening at |  9094
+2023-10-06T18:17:56.688Z: mongo connection |  true
+2023-10-06T18:17:56.689Z: server started | listening at |  9094
+2023-10-06T18:18:01.155Z: server started | listening at |  9094
+2023-10-06T18:18:02.419Z: server started | listening at |  9094
+2023-10-06T18:21:16.074Z: server started | listening at |  9094
+2023-10-06T18:21:33.414Z: server started | listening at |  9094
+2023-10-06T18:25:00.106Z: server started | listening at |  9094
+2023-10-06T18:27:47.614Z: server started | listening at |  9094
+2023-10-06T18:28:29.957Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: walletId_1 dup key: { walletId: null }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:28:39.870Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: walletId_1 dup key: { walletId: null }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-10-06T18:28:55.321Z: server started | listening at |  9094
+2023-10-06T18:28:59.476Z: MongoServerError: E11000 duplicate key error collection: test.wallets index: walletId_1 dup key: { walletId: null }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongoose/node_modules/mongodb/lib/operations/command.js:84:64
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

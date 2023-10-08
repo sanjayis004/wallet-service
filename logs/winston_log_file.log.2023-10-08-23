@@ -1,0 +1,280 @@
+2023-10-08T17:30:27.556Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:30:36.304Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:30:39.246Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:30:42.243Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:30:44.710Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:20.813Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:24.710Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:39.088Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:42.212Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:50.572Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:51.911Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:54.699Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:56.163Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:31:59.436Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:00.936Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:01.909Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:03.137Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:13.822Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:17.044Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:18.246Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:19.730Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:20.836Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:24.547Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:26.747Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:27.736Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:28.743Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:29.603Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:30.695Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:30.954Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:32.183Z: {"walletId":"6522e58306b262e0490b70af","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:32:32.354Z: {"walletId":"6522e58306b262e0490b70af","skip":"20","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:39:16.564Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:39:39.356Z: server started | listening at |  9094
+2023-10-08T17:39:40.655Z: server started | listening at |  9094
+2023-10-08T17:40:05.477Z: server started | listening at |  9094
+2023-10-08T17:40:06.420Z: server started | listening at |  9094
+2023-10-08T17:40:16.682Z: server started | listening at |  9094
+2023-10-08T17:40:19.720Z: server started | listening at |  9094
+2023-10-08T17:40:40.481Z: server started | listening at |  9094
+2023-10-08T17:40:47.273Z: server started | listening at |  9094
+2023-10-08T17:41:01.073Z: server started | listening at |  9094
+2023-10-08T17:41:09.025Z: server started | listening at |  9094
+2023-10-08T17:41:11.404Z: server started | listening at |  9094
+2023-10-08T17:41:12.140Z: server started | listening at |  9094
+2023-10-08T17:41:21.942Z: server started | listening at |  9094
+2023-10-08T17:41:26.989Z: server started | listening at |  9094
+2023-10-08T17:41:28.932Z: server started | listening at |  9094
+2023-10-08T17:41:36.755Z: server started | listening at |  9094
+2023-10-08T17:41:44.794Z: server started | listening at |  9094
+2023-10-08T17:42:19.348Z: server started | listening at |  9094
+2023-10-08T17:42:29.722Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:42:29.722Z: server started | listening at |  9094
+2023-10-08T17:42:30.686Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:42:30.687Z: server started | listening at |  9094
+2023-10-08T17:42:45.030Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:42:45.030Z: server started | listening at |  9094
+2023-10-08T17:42:50.325Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:42:50.326Z: server started | listening at |  9094
+2023-10-08T17:43:00.859Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:00.860Z: server started | listening at |  9094
+2023-10-08T17:43:02.188Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:02.189Z: server started | listening at |  9094
+2023-10-08T17:43:10.493Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:10.493Z: server started | listening at |  9094
+2023-10-08T17:43:17.502Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:17.502Z: server started | listening at |  9094
+2023-10-08T17:43:25.194Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:25.195Z: server started | listening at |  9094
+2023-10-08T17:43:26.269Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:26.270Z: server started | listening at |  9094
+2023-10-08T17:43:40.934Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:40.935Z: server started | listening at |  9094
+2023-10-08T17:43:42.009Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:42.009Z: server started | listening at |  9094
+2023-10-08T17:43:53.374Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:43:53.375Z: server started | listening at |  9094
+2023-10-08T17:44:17.900Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:44:17.901Z: server started | listening at |  9094
+2023-10-08T17:44:18.885Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:44:18.885Z: server started | listening at |  9094
+2023-10-08T17:44:34.442Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:44:34.442Z: server started | listening at |  9094
+2023-10-08T17:44:35.309Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:44:35.309Z: server started | listening at |  9094
+2023-10-08T17:44:38.401Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:44:38.402Z: server started | listening at |  9094
+2023-10-08T17:44:58.471Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:44:58.471Z: server started | listening at |  9094
+2023-10-08T17:45:19.112Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:45:19.112Z: server started | listening at |  9094
+2023-10-08T17:45:41.417Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:45:41.418Z: server started | listening at |  9094
+2023-10-08T17:45:52.026Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:45:52.027Z: server started | listening at |  9094
+2023-10-08T17:45:56.651Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:45:56.652Z: server started | listening at |  9094
+2023-10-08T17:46:14.760Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:14.761Z: server started | listening at |  9094
+2023-10-08T17:46:20.195Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:20.195Z: server started | listening at |  9094
+2023-10-08T17:46:21.888Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:21.889Z: server started | listening at |  9094
+2023-10-08T17:46:23.449Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:23.449Z: server started | listening at |  9094
+2023-10-08T17:46:25.316Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:25.317Z: server started | listening at |  9094
+2023-10-08T17:46:30.427Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:30.428Z: server started | listening at |  9094
+2023-10-08T17:46:40.396Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:40.396Z: server started | listening at |  9094
+2023-10-08T17:46:47.996Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:47.997Z: server started | listening at |  9094
+2023-10-08T17:46:51.496Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:46:51.497Z: server started | listening at |  9094
+2023-10-08T17:47:04.437Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:04.437Z: server started | listening at |  9094
+2023-10-08T17:47:08.060Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:08.061Z: server started | listening at |  9094
+2023-10-08T17:47:10.884Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:10.885Z: server started | listening at |  9094
+2023-10-08T17:47:22.887Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:22.887Z: server started | listening at |  9094
+2023-10-08T17:47:27.508Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:27.508Z: server started | listening at |  9094
+2023-10-08T17:47:30.187Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:30.187Z: server started | listening at |  9094
+2023-10-08T17:47:33.778Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:33.779Z: server started | listening at |  9094
+2023-10-08T17:47:49.637Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:49.638Z: server started | listening at |  9094
+2023-10-08T17:47:52.805Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:52.806Z: server started | listening at |  9094
+2023-10-08T17:47:54.531Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:54.532Z: server started | listening at |  9094
+2023-10-08T17:47:55.750Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:55.750Z: server started | listening at |  9094
+2023-10-08T17:47:58.501Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:47:58.502Z: server started | listening at |  9094
+2023-10-08T17:48:03.477Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:03.478Z: server started | listening at |  9094
+2023-10-08T17:48:10.220Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:10.220Z: server started | listening at |  9094
+2023-10-08T17:48:13.076Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:13.077Z: server started | listening at |  9094
+2023-10-08T17:48:14.549Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:14.550Z: server started | listening at |  9094
+2023-10-08T17:48:38.143Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:38.144Z: server started | listening at |  9094
+2023-10-08T17:48:38.883Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:38.883Z: server started | listening at |  9094
+2023-10-08T17:48:45.419Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:45.420Z: server started | listening at |  9094
+2023-10-08T17:48:47.467Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:47.468Z: server started | listening at |  9094
+2023-10-08T17:48:58.774Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:48:58.775Z: server started | listening at |  9094
+2023-10-08T17:49:25.463Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:49:25.464Z: server started | listening at |  9094
+2023-10-08T17:49:29.727Z: 6522e58306b262e0490b70af
+2023-10-08T17:49:30.709Z: 6522e58306b262e0490b70af
+2023-10-08T17:49:30.738Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:49:30.739Z: 6522e58306b262e0490b70af 0 10 desc date
+2023-10-08T17:49:30.743Z: [{"transactions":[{"_id":"6522e6cd06b262e0490b710c","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":22000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:45.674Z","__v":0},{"_id":"6522e6cd06b262e0490b7109","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":21000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:45.512Z","__v":0},{"_id":"6522e6cd06b262e0490b7106","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":20000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:45.344Z","__v":0},{"_id":"6522e6c906b262e0490b7103","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":19000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.879Z","__v":0},{"_id":"6522e6c906b262e0490b7100","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":18000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.726Z","__v":0},{"_id":"6522e6c906b262e0490b70fd","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":17000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.570Z","__v":0},{"_id":"6522e6c906b262e0490b70fa","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":16000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.406Z","__v":0},{"_id":"6522e6c906b262e0490b70f7","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":15000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.249Z","__v":0},{"_id":"6522e6c906b262e0490b70f4","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":14000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.106Z","__v":0},{"_id":"6522e6c806b262e0490b70f1","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":13000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:40.956Z","__v":0}],"totalCount":[{"count":23}]}]
+2023-10-08T17:50:13.916Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:50:13.917Z: server started | listening at |  9094
+2023-10-08T17:50:17.964Z: {"walletId":"6522e58306b262e0490b70af","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:50:17.964Z: 6522e58306b262e0490b70af 0 10 desc date
+2023-10-08T17:50:17.966Z: 6522e58306b262e0490b70af
+2023-10-08T17:50:17.970Z: [{"transactions":[{"_id":"6522e6cd06b262e0490b710c","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":22000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:45.674Z","__v":0},{"_id":"6522e6cd06b262e0490b7109","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":21000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:45.512Z","__v":0},{"_id":"6522e6cd06b262e0490b7106","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":20000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:45.344Z","__v":0},{"_id":"6522e6c906b262e0490b7103","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":19000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.879Z","__v":0},{"_id":"6522e6c906b262e0490b7100","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":18000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.726Z","__v":0},{"_id":"6522e6c906b262e0490b70fd","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":17000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.570Z","__v":0},{"_id":"6522e6c906b262e0490b70fa","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":16000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.406Z","__v":0},{"_id":"6522e6c906b262e0490b70f7","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":15000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.249Z","__v":0},{"_id":"6522e6c906b262e0490b70f4","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":14000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:41.106Z","__v":0},{"_id":"6522e6c806b262e0490b70f1","walletId":"6522e58306b262e0490b70af","amount":1000,"balance":13000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:28:40.956Z","__v":0}],"totalCount":[{"count":23}]}]
+2023-10-08T17:50:17.973Z: {"_id":"6522e58306b262e0490b70af","name":"sanjay0080","balance":22000,"__v":0}
+2023-10-08T17:51:22.471Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:51:22.471Z: server started | listening at |  9094
+2023-10-08T17:51:24.967Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:51:24.968Z: server started | listening at |  9094
+2023-10-08T17:51:30.028Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:51:30.029Z: server started | listening at |  9094
+2023-10-08T17:51:32.738Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:51:32.739Z: server started | listening at |  9094
+2023-10-08T17:51:44.088Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:51:44.089Z: server started | listening at |  9094
+2023-10-08T17:52:16.376Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:52:16.376Z: server started | listening at |  9094
+2023-10-08T17:52:28.018Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:52:28.019Z: server started | listening at |  9094
+2023-10-08T17:52:32.231Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:52:32.232Z: server started | listening at |  9094
+2023-10-08T17:52:34.699Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:52:34.699Z: server started | listening at |  9094
+2023-10-08T17:53:39.845Z: {"name":"sanjay004","balance":0}
+2023-10-08T17:53:39.855Z: ReferenceError: data is not defined
+    at Transaction.setupTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:17:36)
+    at Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-08T17:54:26.004Z: {"amount":10000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:54:26.004Z: data |  {"amount":10000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:54:26.026Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":10000,"balance":10000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:54:26.020Z","_id":"6522ecd2d566b34b3facd2ba","__v":0}
+2023-10-08T17:54:26.027Z: ReferenceError: parseFlaot is not defined
+    at Transaction.transact (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:69:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports.executeTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/transactionController.js:41:34)
+2023-10-08T17:54:52.455Z: MongoDB Connected: 0.0.0.0
+2023-10-08T17:54:52.456Z: server started | listening at |  9094
+2023-10-08T17:55:01.212Z: 6522eca3d566b34b3facd2b7
+2023-10-08T17:55:01.221Z: {"_id":"6522eca3d566b34b3facd2b7","name":"sanjay004","balance":10000,"__v":0}
+2023-10-08T17:55:32.980Z: {"amount":1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:32.981Z: data |  {"amount":1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:32.995Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":11000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:32.987Z","_id":"6522ed14fcb49f9fa1d6ef64","__v":0}
+2023-10-08T17:55:33.714Z: {"amount":1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:33.715Z: data |  {"amount":1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:33.722Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":12000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:33.719Z","_id":"6522ed15fcb49f9fa1d6ef67","__v":0}
+2023-10-08T17:55:37.940Z: {"amount":1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:37.940Z: data |  {"amount":1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:37.952Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":13000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:37.946Z","_id":"6522ed19fcb49f9fa1d6ef6a","__v":0}
+2023-10-08T17:55:41.511Z: {"amount":1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:41.511Z: data |  {"amount":1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:41.522Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":14000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:41.516Z","_id":"6522ed1dfcb49f9fa1d6ef6d","__v":0}
+2023-10-08T17:55:48.797Z: {"amount":1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:48.797Z: data |  {"amount":1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:48.808Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":15000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:48.803Z","_id":"6522ed24fcb49f9fa1d6ef70","__v":0}
+2023-10-08T17:55:52.322Z: {"amount":1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:52.323Z: data |  {"amount":1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:52.331Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":16000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:52.327Z","_id":"6522ed28fcb49f9fa1d6ef73","__v":0}
+2023-10-08T17:55:56.168Z: {"amount":1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:56.168Z: data |  {"amount":1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:56.177Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":17000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:56.174Z","_id":"6522ed2cfcb49f9fa1d6ef76","__v":0}
+2023-10-08T17:55:59.926Z: {"amount":1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:59.926Z: data |  {"amount":1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:55:59.938Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":18000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:59.932Z","_id":"6522ed2ffcb49f9fa1d6ef79","__v":0}
+2023-10-08T17:56:03.396Z: {"amount":-1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:03.397Z: data |  {"amount":-1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:03.408Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":17000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:03.400Z","_id":"6522ed33fcb49f9fa1d6ef7c","__v":0}
+2023-10-08T17:56:05.150Z: {"amount":-1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:05.150Z: data |  {"amount":-1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:05.160Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":16000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:05.154Z","_id":"6522ed35fcb49f9fa1d6ef7f","__v":0}
+2023-10-08T17:56:06.972Z: {"amount":-1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:06.972Z: data |  {"amount":-1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:06.978Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":15000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:06.975Z","_id":"6522ed36fcb49f9fa1d6ef82","__v":0}
+2023-10-08T17:56:10.531Z: {"amount":-1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:10.531Z: data |  {"amount":-1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:10.540Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":14000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:10.534Z","_id":"6522ed3afcb49f9fa1d6ef85","__v":0}
+2023-10-08T17:56:14.057Z: {"amount":-1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:14.057Z: data |  {"amount":-1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:14.064Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":13000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:14.062Z","_id":"6522ed3efcb49f9fa1d6ef88","__v":0}
+2023-10-08T17:56:17.564Z: {"amount":-1000,"description":"gift","walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:17.565Z: data |  {"amount":-1000,"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:17.574Z: {"walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":12000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:17.570Z","_id":"6522ed41fcb49f9fa1d6ef8b","__v":0}
+2023-10-08T17:56:21.452Z: {"walletId":"6522eca3d566b34b3facd2b7","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T17:56:21.453Z: 6522eca3d566b34b3facd2b7 0 10 desc date
+2023-10-08T17:56:21.465Z: [{"transactions":[{"_id":"6522ed41fcb49f9fa1d6ef8b","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":12000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:17.570Z","__v":0},{"_id":"6522ed3efcb49f9fa1d6ef88","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":13000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:14.062Z","__v":0},{"_id":"6522ed3afcb49f9fa1d6ef85","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":14000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:10.534Z","__v":0},{"_id":"6522ed36fcb49f9fa1d6ef82","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":15000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:06.975Z","__v":0},{"_id":"6522ed35fcb49f9fa1d6ef7f","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":16000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:05.154Z","__v":0},{"_id":"6522ed33fcb49f9fa1d6ef7c","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":17000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:03.400Z","__v":0},{"_id":"6522ed2ffcb49f9fa1d6ef79","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":18000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:59.932Z","__v":0},{"_id":"6522ed2cfcb49f9fa1d6ef76","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":17000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:56.174Z","__v":0},{"_id":"6522ed28fcb49f9fa1d6ef73","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":16000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:52.327Z","__v":0},{"_id":"6522ed24fcb49f9fa1d6ef70","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":15000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:48.803Z","__v":0}],"totalCount":[{"count":15}]}]
+2023-10-08T17:56:21.467Z: 6522eca3d566b34b3facd2b7
+2023-10-08T17:56:21.471Z: {"_id":"6522eca3d566b34b3facd2b7","name":"sanjay004","balance":12000,"__v":0}
+2023-10-08T17:56:24.296Z: {"walletId":"6522eca3d566b34b3facd2b7"}
+2023-10-08T17:56:24.301Z: {"_id":"6522ecd2d566b34b3facd2ba","walletId":"6522eca3d566b34b3facd2b7","amount":10000,"balance":10000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:54:26.020Z","__v":0}
+2023-10-08T17:56:24.302Z: {"_id":"6522ed14fcb49f9fa1d6ef64","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":11000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:32.987Z","__v":0}
+2023-10-08T17:56:24.302Z: {"_id":"6522ed15fcb49f9fa1d6ef67","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":12000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:33.719Z","__v":0}
+2023-10-08T17:56:24.302Z: {"_id":"6522ed19fcb49f9fa1d6ef6a","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":13000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:37.946Z","__v":0}
+2023-10-08T17:56:24.303Z: {"_id":"6522ed1dfcb49f9fa1d6ef6d","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":14000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:41.516Z","__v":0}
+2023-10-08T17:56:24.304Z: {"_id":"6522ed24fcb49f9fa1d6ef70","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":15000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:48.803Z","__v":0}
+2023-10-08T17:56:24.305Z: {"_id":"6522ed28fcb49f9fa1d6ef73","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":16000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:52.327Z","__v":0}
+2023-10-08T17:56:24.305Z: {"_id":"6522ed2cfcb49f9fa1d6ef76","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":17000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:56.174Z","__v":0}
+2023-10-08T17:56:24.306Z: {"_id":"6522ed2ffcb49f9fa1d6ef79","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":18000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:59.932Z","__v":0}
+2023-10-08T17:56:24.306Z: {"_id":"6522ed33fcb49f9fa1d6ef7c","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":17000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:03.400Z","__v":0}
+2023-10-08T17:56:24.306Z: {"_id":"6522ed35fcb49f9fa1d6ef7f","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":16000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:05.154Z","__v":0}
+2023-10-08T17:56:24.307Z: {"_id":"6522ed36fcb49f9fa1d6ef82","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":15000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:06.975Z","__v":0}
+2023-10-08T17:56:24.307Z: {"_id":"6522ed3afcb49f9fa1d6ef85","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":14000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:10.534Z","__v":0}
+2023-10-08T17:56:24.308Z: {"_id":"6522ed3efcb49f9fa1d6ef88","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":13000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:14.062Z","__v":0}
+2023-10-08T17:56:24.308Z: {"_id":"6522ed41fcb49f9fa1d6ef8b","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":12000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:17.570Z","__v":0}
+2023-10-08T18:00:06.268Z: {"walletId":"6522eca3d566b34b3facd2b7","skip":"10","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T18:00:06.268Z: 6522eca3d566b34b3facd2b7 10 10 desc date
+2023-10-08T18:00:06.272Z: [{"transactions":[{"_id":"6522ed1dfcb49f9fa1d6ef6d","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":14000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:41.516Z","__v":0},{"_id":"6522ed19fcb49f9fa1d6ef6a","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":13000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:37.946Z","__v":0},{"_id":"6522ed15fcb49f9fa1d6ef67","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":12000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:33.719Z","__v":0},{"_id":"6522ed14fcb49f9fa1d6ef64","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":11000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:32.987Z","__v":0},{"_id":"6522ecd2d566b34b3facd2ba","walletId":"6522eca3d566b34b3facd2b7","amount":10000,"balance":10000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:54:26.020Z","__v":0}],"totalCount":[{"count":15}]}]
+2023-10-08T18:00:06.274Z: 6522eca3d566b34b3facd2b7
+2023-10-08T18:00:06.276Z: {"_id":"6522eca3d566b34b3facd2b7","name":"sanjay004","balance":12000,"__v":0}
+2023-10-08T18:00:39.819Z: MongoDB Connected: 0.0.0.0
+2023-10-08T18:00:39.819Z: server started | listening at |  9094
+2023-10-08T18:03:27.739Z: {"walletId":"6522eca3d566b34b3facd2b7","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T18:03:27.739Z: 6522eca3d566b34b3facd2b7 0 10 desc date
+2023-10-08T18:03:27.741Z: 6522eca3d566b34b3facd2b7
+2023-10-08T18:03:27.746Z: [{"transactions":[{"_id":"6522ed41fcb49f9fa1d6ef8b","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":12000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:17.570Z","__v":0},{"_id":"6522ed3efcb49f9fa1d6ef88","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":13000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:14.062Z","__v":0},{"_id":"6522ed3afcb49f9fa1d6ef85","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":14000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:10.534Z","__v":0},{"_id":"6522ed36fcb49f9fa1d6ef82","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":15000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:06.975Z","__v":0},{"_id":"6522ed35fcb49f9fa1d6ef7f","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":16000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:05.154Z","__v":0},{"_id":"6522ed33fcb49f9fa1d6ef7c","walletId":"6522eca3d566b34b3facd2b7","amount":-1000,"balance":17000,"type":"DEBIT","description":"gift","date":"2023-10-08T17:56:03.400Z","__v":0},{"_id":"6522ed2ffcb49f9fa1d6ef79","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":18000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:59.932Z","__v":0},{"_id":"6522ed2cfcb49f9fa1d6ef76","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":17000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:56.174Z","__v":0},{"_id":"6522ed28fcb49f9fa1d6ef73","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":16000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:52.327Z","__v":0},{"_id":"6522ed24fcb49f9fa1d6ef70","walletId":"6522eca3d566b34b3facd2b7","amount":1000,"balance":15000,"type":"CREDIT","description":"gift","date":"2023-10-08T17:55:48.803Z","__v":0}],"totalCount":[{"count":15}]}]
+2023-10-08T18:03:27.750Z: {"_id":"6522eca3d566b34b3facd2b7","name":"sanjay004","balance":12000,"__v":0}

@@ -1,0 +1,135 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/.bb63e7a42bdb2ef12837cb588a7c622a4529ec17-audit.json",
+    "files": [
+        {
+            "date": 1696613808715,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-06-23",
+            "hash": "56bb14cda8608ab003cae1d959618d9aac2694e323f789e6a42dea12ea2da350"
+        },
+        {
+            "date": 1696617016048,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-00",
+            "hash": "ca8b298cd33fa60e480a522398b60dd8e654a913b0a259155eb784eb3168237a"
+        },
+        {
+            "date": 1696621379490,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-01",
+            "hash": "bb333601fbd0ba1adaa124a9a747133b6be8d2065089d09e563d56f27c68122d"
+        },
+        {
+            "date": 1696624215585,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-02",
+            "hash": "308c605d36e103816c80b97bb80bd863ac31756386877d17c6a1c2b32949079e"
+        },
+        {
+            "date": 1696628284189,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-03",
+            "hash": "34e09e32361ad6f877587ab7eaa292672b435d75ee59ab1d3fad314b2ac3f484"
+        },
+        {
+            "date": 1696667366904,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-13",
+            "hash": "25c4c7a5d7d973d7499af5c0ac48d956db5b2f2ef7ddc987dd36800197cbcba1"
+        },
+        {
+            "date": 1696672638885,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-15",
+            "hash": "8217590dbd3622aa16ddf2a5b64bd2abc477b913963419dde0c63d7bf7bff381"
+        },
+        {
+            "date": 1696678340291,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-17",
+            "hash": "eea77e8753fb636097a6d0016525da10d108910727e6e0d7d1e3db03c53fa74c"
+        },
+        {
+            "date": 1696689192359,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-20",
+            "hash": "4fa7f550ca877108c9134a51aa951204cefa84408609dc70bf1394fe25427155"
+        },
+        {
+            "date": 1696692817569,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-21",
+            "hash": "3ea4da7831874d66e2630c7a95d4d9b26226b9c26471b6eac54835afdd2d5b77"
+        },
+        {
+            "date": 1696696884719,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-22",
+            "hash": "aa71d55282554f60b47adcb64c697173affcacc425f307eb7dee37446f82ff9c"
+        },
+        {
+            "date": 1696700329372,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-07-23",
+            "hash": "1c08f5fcbcdfe279b313c5b194bb9a2fcdfc03264971df6cd1913d2925bd42a1"
+        },
+        {
+            "date": 1696703420063,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-00",
+            "hash": "e818117415d1128f628ce5ad580e6be9ce38afa87586b056c1669841c86f63e5"
+        },
+        {
+            "date": 1696707010545,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-01",
+            "hash": "ce6908d5fee833c62aa061dca985c53fe5f960b0b613fa4ae1b07a0d339ab912"
+        },
+        {
+            "date": 1696710689272,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-02",
+            "hash": "a2d2ab7715f8531893e66a90663ce63ef7a2f55475df6f9faa3b19bd2699e3d6"
+        },
+        {
+            "date": 1696714714196,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-03",
+            "hash": "c57366ea8d82a01470168cbe6b3bb9a93437e5ed346a5dc9a0dd39c52adba44d"
+        },
+        {
+            "date": 1696756086008,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-14",
+            "hash": "3da499f0310693b1b4ceebff2622a7fb7652597288f6c9e5bc04e7b25854d33c"
+        },
+        {
+            "date": 1696762125015,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-16",
+            "hash": "e398b9009b13ba7783638be98be34245d520c64f0e82d2d07577831ab1fbdc8c"
+        },
+        {
+            "date": 1696764679286,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-17",
+            "hash": "126720187dce8962d3c5c217ad7b477d90e2583bc367a44f8cb5549116605297"
+        },
+        {
+            "date": 1696768389673,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-18",
+            "hash": "593e598e4386c569794674c917d381c1d2f90385603dea33873aa99f0aae1339"
+        },
+        {
+            "date": 1696771834809,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-19",
+            "hash": "7de818cb2714d6fb4eb68423136fef59e5ee58f9b4599044a631fd8fae925e36"
+        },
+        {
+            "date": 1696776979690,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-20",
+            "hash": "84e45b64545fac8248655fa469f1cd7d56631fff6312596936c2e8e62212e6f6"
+        },
+        {
+            "date": 1696779031762,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-21",
+            "hash": "32d790f79ba620fc7d0fb60af366c29a4dbd25accbe56c62cc74190c19190dd3"
+        },
+        {
+            "date": 1696782625081,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-22",
+            "hash": "a25c5e86f27d8bd48bd2223ac0c40971cfc324b5a6bf5f9f3265cc4d365fdc37"
+        },
+        {
+            "date": 1696786227556,
+            "name": "/Users/sanjaykumar/highlevel/wallet_management_service/logs/winston_log_file.log.2023-10-08-23",
+            "hash": "cd533c987508ad2f53d7836a91af2273e380b50efa56b046d487e335bec65aac"
+        }
+    ],
+    "hashType": "sha256"
+}

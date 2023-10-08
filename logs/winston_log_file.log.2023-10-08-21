@@ -1,0 +1,76 @@
+2023-10-08T15:30:31.761Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:31:43.736Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:32:10.726Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:33:33.743Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:33:41.738Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:33:52.730Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:33:54.910Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:33:56.136Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:01.423Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:24.780Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:26.674Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:27.348Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:27.500Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:30.969Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:36.735Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:44.734Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:47.305Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:47.997Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:57.127Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:34:59.326Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:35:01.277Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:39:57.957Z: {"walletId":"6522bc8bf410cdf4435fc66c","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T15:50:21.257Z: ReferenceError: updateResult is not defined
+    at Transaction.setupTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:28:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:13)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-08T15:51:52.498Z: {"amount":100,"description":"gift","walletId":"6522cfbdf410cdf4435fc6be"}
+2023-10-08T15:51:52.498Z: data |  {"amount":100,"description":"gift","walletId":"6522cfbdf410cdf4435fc6be"}
+2023-10-08T15:51:58.961Z: {"amount":1000,"description":"gift","walletId":"6522cfbdf410cdf4435fc6be"}
+2023-10-08T15:51:58.961Z: data |  {"amount":1000,"description":"gift","walletId":"6522cfbdf410cdf4435fc6be"}
+2023-10-08T15:52:18.129Z: {"amount":1000,"description":"gift","walletId":"6522cfbdf410cdf4435fc6be"}
+2023-10-08T15:52:18.129Z: data |  {"amount":1000,"description":"gift","walletId":"6522cfbdf410cdf4435fc6be"}
+2023-10-08T16:07:26.618Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay009" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T16:07:30.889Z: ReferenceError: updateResult is not defined
+    at Transaction.setupTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:28:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:13)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-08T16:08:02.667Z: {"amount":2000,"description":"noww","walletId":"6522d3c2f410cdf4435fc6cd"}
+2023-10-08T16:08:02.668Z: data |  {"amount":2000,"description":"noww","walletId":"6522d3c2f410cdf4435fc6cd"}
+2023-10-08T16:08:21.676Z: {"amount":2000,"description":"noww","walletId":"6522d3c2f410cdf4435fc6cd"}
+2023-10-08T16:08:21.676Z: data |  {"amount":2000,"description":"noww","walletId":"6522d3c2f410cdf4435fc6cd"}
+2023-10-08T16:11:21.882Z: ReferenceError: updateResult is not defined
+    at Transaction.setupTransaction (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/transaction.js:28:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Wallet.setup (/Users/sanjaykumar/highlevel/wallet_management_service/src/services/wallet.js:18:13)
+    at async module.exports.walletSetup (/Users/sanjaykumar/highlevel/wallet_management_service/src/controllers/walletController.js:32:34)
+2023-10-08T16:12:04.123Z: server started | listening at |  9094
+2023-10-08T16:12:22.541Z: server started | listening at |  9094
+2023-10-08T16:14:41.660Z: {"amount":100,"description":"gift","walletId":"6522d4a9f410cdf4435fc6d7"}
+2023-10-08T16:14:41.661Z: data |  {"amount":100,"description":"gift","walletId":"6522d4a9f410cdf4435fc6d7"}
+2023-10-08T16:19:48.065Z: {"amount":100,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:19:48.065Z: data |  {"amount":100,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:19:52.452Z: {"walletId":"6522d67a06b262e0490b704f","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2023-10-08T16:20:15.371Z: {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.371Z: data |  {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.497Z: {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.498Z: data |  {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.628Z: {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.629Z: data |  {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.740Z: {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.741Z: data |  {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.871Z: {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:20:15.871Z: data |  {"amount":1000,"description":"gift","walletId":"6522d67a06b262e0490b704f"}
+2023-10-08T16:23:06.532Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-10-08T16:23:08.061Z: errrr MongoServerError: E11000 duplicate key error collection: test.wallets index: name_1 dup key: { name: "sanjay008" }
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/insert.js:50:33
+    at /Users/sanjaykumar/highlevel/wallet_management_service/src/node_modules/mongodb/lib/operations/command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
