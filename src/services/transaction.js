@@ -14,8 +14,8 @@ class Transaction {
         try {
             let newTransaction = new TransactionModel({
                 walletId,
-                amount: parseFloat(data.balance),
-                balance: parseFloat(data.balance),
+                amount: parseFloat(balance),
+                balance: parseFloat(balance),
                 type: "CREDIT",
                 description: "wallet setup",
                 date: new Date()
